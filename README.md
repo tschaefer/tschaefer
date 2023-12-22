@@ -1,9 +1,6 @@
-### Hi there 👋
+![Tobi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tschaefer&count_private=false&theme=github_dark_dimmed&show_icons=true&hide=contribs&rank_icon=github&custom_title=Github%20Stats)
 
-My name is Tobias! 
-
-![Tobi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tschaefer&count_private=false&theme=dracula&show_icons=true)
-![Tobi's Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tschaefer&count_private=false&theme=dracula&show_icons=true)
+![Tobi's Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tschaefer&count_private=false&theme=github_dark_dimmed&show_icons=true&layout=compact)
 
 <!--
 **tschaefer/tschaefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
