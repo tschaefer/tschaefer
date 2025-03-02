@@ -1,4 +1,4 @@
-![retro-computer-desk-arrangement](https://github.com/user-attachments/assets/e68b234a-e7a6-486f-9848-02709f356ebb)
+![retro-computer-desk-arrangement](https://github.com/user-attachments/assets/834006ef-16f6-4ac3-a533-08941108c17c)
 
 <!-- Image license: https://www.freepik.com/legal/terms-of-use -->
 
