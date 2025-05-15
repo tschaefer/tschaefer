@@ -1,0 +1,29 @@
+---
+name: Latest blog post workflow
+on:    # yamllint disable-line rule:truthy
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 3 * * *'
+
+jobs:
+  update-readme-with-blog:
+    name: Update with latest blog post
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Get RSS Feed
+        uses: kohrongying/readme-the-rss@master
+        with:
+          feed_url: https://blog.tschaefer.org/index.xml
+          count: 3
+      - name: Commit and push
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: "Tobias Schäfer"
+          author_email: github@blackox.org
+          commit: --signoff
+          message: 'blog: update posts'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
