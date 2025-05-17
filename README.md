@@ -2,7 +2,7 @@
 
 Your partner for scalable, secure IT – built to grow with your business.
 
-[Personal](https://tschaefer.org/) | [Blog](https://blog.tschaefer.org/) | [LinkedIn](www.linkedin.com/in/tschaefer-org) | [Email](mailto:me@tschaefer.org)
+[Personal](https://tschaefer.org/) | [Blog](https://blog.tschaefer.org/) | [LinkedIn](https://linkedin.com/in/tschaefer-org) | [Email](mailto:me@tschaefer.org)
 
 ## Latest Blog Posts
 <!-- BLOGPOSTS:START -->
