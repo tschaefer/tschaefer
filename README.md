@@ -1,10 +1,8 @@
 # Tobias Schäfer
 
-Dipl.-Inf. (FH) - Software Engineer
+Your partner for scalable, secure IT – built to grow with your business.
 
-* [Personal Landingpage](https://tschaefer.org/)
-* [Technical Blog](https://blog.tschaefer.org/)
-* [Email me](mailto:me@tschaefer.org)
+[Personal](https://tschaefer.org/) | [Blog](https://blog.tschaefer.org/) | [LinkedIn](www.linkedin.com/in/tschaefer-org) | [Email](mailto:me@tschaefer.org)
 
 ## Latest Blog Posts
 <!-- BLOGPOSTS:START -->
