@@ -1,4 +1,3 @@
-![iStock-2212501159](https://github.com/user-attachments/assets/96ec0879-792a-45c9-924a-4ee3f947cf85)
 # Tobias Schäfer
 
 Your partner for scalable, secure IT – built to grow with your business.
