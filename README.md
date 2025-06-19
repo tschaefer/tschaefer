@@ -6,9 +6,9 @@ Your partner for scalable, secure IT – built to grow with your business.
 
 ## Latest Blog Posts
 <!-- BLOGPOSTS:START -->
+- [Visualize Raspberry Pi Hardware Metrics](https://blog.tschaefer.org/posts/2025/06/18/visualize-raspberry-pi-hardware-metrics/)
 - [A Solid Semantic Search for RSS Feeds](https://blog.tschaefer.org/posts/2025/05/31/a-solid-semantic-search-for-rss-feeds/)
 - [Analyze and Anonymize Data in Real-Time](https://blog.tschaefer.org/posts/2025/05/13/analyze-and-anonymize-data-in-real-time/)
-- [Traefik, K3s, SSH and Inlets - Step Up](https://blog.tschaefer.org/posts/2025/05/07/traefik-k3s-ssh-and-inlets-step-up/)
 <!-- BLOGPOSTS:END -->
 
 > [!TIP]
