@@ -6,9 +6,9 @@ Your partner for scalable, secure IT – built to grow with your business.
 
 ## Latest Blog Posts
 <!-- BLOGPOSTS:START -->
+- [Finch - A Minimal Logging Stack](https://blog.tschaefer.org/posts/2025/08/17/finch-a-minimal-logging-stack/)
 - [Unlocking Your Encrypted ZFS Root with YubiKey on Debian](https://blog.tschaefer.org/posts/2025/07/25/unlocking-your-encrypted-zfs-root-with-yubikey-on-debian/)
 - [Visualize Raspberry Pi Hardware Metrics](https://blog.tschaefer.org/posts/2025/06/18/visualize-raspberry-pi-hardware-metrics/)
-- [A Solid Semantic Search for RSS Feeds](https://blog.tschaefer.org/posts/2025/05/31/a-solid-semantic-search-for-rss-feeds/)
 <!-- BLOGPOSTS:END -->
 
 > [!TIP]
