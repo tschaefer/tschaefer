@@ -10,4 +10,4 @@
 <!-- BLOGPOSTS:END -->
 
 > [!TIP]
-> *Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.* <sub>-- John Woods</sub>
+> *Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.* <sub>-- [John F. Woods](https://groups.google.com/g/comp.lang.c++/c/rYCO5yn4lXw/m/oITtSkZOtoUJ)</sub>
