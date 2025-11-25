@@ -4,9 +4,9 @@
 
 ## Latest Blog Posts
 <!-- BLOGPOSTS:START -->
+- [conntrackd - Observing Connections at the Kernel Edge](https://blog.tschaefer.org/posts/2025/11/24/conntrackd-observing-connections-at-the-kernel-edge/)
 - [Finch - From Logging to Observability](https://blog.tschaefer.org/posts/2025/10/26/finch-from-logging-to-observability/)
 - [Finch - A Minimal Logging Stack](https://blog.tschaefer.org/posts/2025/08/17/finch-a-minimal-logging-stack/)
-- [Unlocking Your Encrypted ZFS Root with YubiKey on Debian](https://blog.tschaefer.org/posts/2025/07/25/unlocking-your-encrypted-zfs-root-with-yubikey-on-debian/)
 <!-- BLOGPOSTS:END -->
 
 > [!TIP]
