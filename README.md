@@ -4,9 +4,9 @@
 
 ## Latest Blog Posts
 <!-- BLOGPOSTS:START -->
+- [Logging Outbound Connections with conntrackd](https://blog.tschaefer.org/posts/2025/11/26/logging-outbound-connections-with-conntrackd/)
 - [conntrackd - Observing Connections at the Kernel Edge](https://blog.tschaefer.org/posts/2025/11/24/conntrackd-observing-connections-at-the-kernel-edge/)
 - [Finch - From Logging to Observability](https://blog.tschaefer.org/posts/2025/10/26/finch-from-logging-to-observability/)
-- [Finch - A Minimal Logging Stack](https://blog.tschaefer.org/posts/2025/08/17/finch-a-minimal-logging-stack/)
 <!-- BLOGPOSTS:END -->
 
 > [!TIP]
