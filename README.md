@@ -4,9 +4,9 @@
 
 ## Latest Blog Posts
 <!-- BLOGPOSTS:START -->
+- [Analyzing Github Repository Issues Lifecycle](https://blog.tschaefer.org/posts/2025/12/31/analyzing-github-repository-issues-lifecycle/)
 - [gocover-ui - Modern HTML Coverage Report](https://blog.tschaefer.org/posts/2025/12/20/gocover-ui-modern-html-coverage-report/)
 - [Logging Outbound Connections with conntrackd](https://blog.tschaefer.org/posts/2025/11/26/logging-outbound-connections-with-conntrackd/)
-- [conntrackd - Observing Connections at the Kernel Edge](https://blog.tschaefer.org/posts/2025/11/24/conntrackd-observing-connections-at-the-kernel-edge/)
 <!-- BLOGPOSTS:END -->
 
 > [!TIP]
